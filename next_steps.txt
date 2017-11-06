@@ -1,0 +1,23 @@
+year
+county
+state
+counts of death eligible for each category
+immediate family counts that were not felonious
+leoka killings
+
+
+""
+new column: close relationship and not otherwise felonious for all the offenders
+
+immediate family:
+common-law husband/wife
+daughter
+boyfriend
+girlfriend
+homosexual relationship
+husband
+father
+mother
+step*
+son
+wife
